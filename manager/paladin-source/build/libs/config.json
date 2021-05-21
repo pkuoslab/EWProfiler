@@ -1,0 +1,14 @@
+{
+	"ADB_PATH": "/home/pkuoslab/Android/Sdk/platform-tools/",
+	"DEFAULT_PORT": 5700,
+	"BACKEND": "UIAutomator",
+	"DEVICES": [
+		{
+			"IP": "127.0.0.1",
+			"SERIAL": "06578f300acddc0e",
+			"PORT": 6161,
+			"PASSWORD": "monkeymonkey"
+		}
+	],
+	"PACKAGE": "com.allfootball.news"
+}
